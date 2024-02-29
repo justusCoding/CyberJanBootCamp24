@@ -5,11 +5,11 @@
 <h3 align="center">A passionate software quality engineer from St. Louis</h3>
 <br/>
 <div align="center">
- :telescope: I’m currently working on **a sofware development team**
+ :telescope: I’m currently working on ** Getting certified in CyberSecurity **
  
- 🌱 I'm currently learning **sql, Python, AWS**
+ 🌱 I'm currently learning **sql, Python, Azure, and cyber security **
 💬 Ask me about **python, bash, or sql... or anything [here](https://github.com/justusCoding/CyberJanBootCamp24)**
-⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
+⚡ Fun fact **Some Cats are Allergic to people**
  </div>
  
 <div align="center"> 
