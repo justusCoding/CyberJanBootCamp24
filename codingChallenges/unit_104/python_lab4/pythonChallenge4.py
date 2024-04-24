@@ -31,3 +31,8 @@ print(command_output)
 
 theResult = subprocess.run(["ip","a"], capture_output=True, text=True)
 print(theResult.stdout)
+
+
+
+Result = subprocess.run(["lshw","-short"], capture_output=True, text=True)
+print(Result.stdout)
